@@ -54,15 +54,5 @@ This is the easiest way to get everything at once.
 ---
 
 ### Important Reminders
-- Please **bring a laptop** (Windows or Mac, not a tablet/iPad) to **every** class.
-- Make sure you have the latest lecture folder downloaded before coming to class.
-- We will be using Microsoft Excel and Python extensively, so keep your files organized and ready to open.
+- Please **bring a laptop** (Windows or Mac, not a tablet/iPad) to **every** class; we'll need them to work cases.
 - Check this repository regularly — new materials and updates will appear here.
-
-If you have any trouble accessing or downloading files, just let me know in class or during office hours.
-
-Looking forward to an excellent semester together!
-
-**Danko Turcic**  
-Instructor, MGT 207  
-Spring 2026
